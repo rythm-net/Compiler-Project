@@ -1,0 +1,35 @@
+using System;
+
+class Program
+{
+  int Main() {
+    A = scanf();
+    B = A*2;
+    printf(B);
+    return 0;
+  }
+}
+
+===========================
+
+A = scanf();
+B = scanf();
+printf(++A);
+printf(B-A/B);
+
+A = scanf();
+B = scanf();
+printf(B%A+B);
+
+A = scanf();
+B = scanf();
+print(--B);
+printf(A*A-B);
+
+A = scanf();
+B = scanf();
+printf(A/B+B*2);
+
+A = scanf();
+B = scanf();
+printf(2+A*B-10);

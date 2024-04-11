@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S0ZValWr65XrejVnKf+NYJ+/+lF4/rzc4zNchGiPMveetL5nLTUIYMAh23dGkI266WWGV1+L5dqj1umZppLkzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProjectTests\\MTProjectTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

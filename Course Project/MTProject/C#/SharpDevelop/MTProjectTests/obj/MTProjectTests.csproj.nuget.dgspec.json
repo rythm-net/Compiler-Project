@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProjectTests\\MTProjectTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProjectTests\\MTProjectTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProjectTests\\MTProjectTests.csproj",
+        "projectName": "MTProjectTests",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProjectTests\\MTProjectTests.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProjectTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProject\\MTProject.csproj": {
+                "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProject\\MTProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProject\\MTProject.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProject\\MTProject.csproj",
+        "projectName": "MTProject",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Compiler-Project\\Course Project\\MTProject\\C#\\SharpDevelop\\MTProject\\MTProject.csproj",
+        "frameworks": {
+          "net35": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net35": {}
+      }
+    }
+  }
+}

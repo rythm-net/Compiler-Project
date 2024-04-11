@@ -1,0 +1,39 @@
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\bin\Release\MTProject.exe.config
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\bin\Release\MTProject.exe
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\bin\Release\MTProject.pdb
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Release\MTProject.csproj.AssemblyReference.cache
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Release\MTProject.csproj.SuggestedBindingRedirects.cache
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Release\MTProject.csproj.CoreCompileInputs.cache
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Release\MTProject.exe
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Release\MTProject.pdb
+C:\Users\Erkan\Desktop\1901261068\MTProject\bin\Release\MTProject.exe.config
+C:\Users\Erkan\Desktop\1901261068\MTProject\bin\Release\MTProject.exe
+C:\Users\Erkan\Desktop\1901261068\MTProject\bin\Release\MTProject.pdb
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Release\MTProject.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Release\MTProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Release\MTProject.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Release\MTProject.exe
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Release\MTProject.pdb
+D:\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.exe.config
+D:\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.exe
+D:\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.pdb
+D:\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.AssemblyReference.cache
+D:\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.SuggestedBindingRedirects.cache
+D:\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.CoreCompileInputs.cache
+D:\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.exe
+D:\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.pdb
+C:\Users\alexk\OneDrive\Documents\MT PROJECT\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.exe.config
+C:\Users\alexk\OneDrive\Documents\MT PROJECT\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.exe
+C:\Users\alexk\OneDrive\Documents\MT PROJECT\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.pdb
+C:\Users\alexk\OneDrive\Documents\MT PROJECT\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.AssemblyReference.cache
+C:\Users\alexk\OneDrive\Documents\MT PROJECT\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.CoreCompileInputs.cache
+C:\Users\alexk\OneDrive\Documents\MT PROJECT\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.exe
+C:\Users\alexk\OneDrive\Documents\MT PROJECT\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.pdb
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.exe.config
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.exe
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\bin\Release\MTProject.pdb
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.exe
+C:\Users\PC\Documents\GitHub\Compiler-Project\Course Project\MTProject\C#\SharpDevelop\MTProject\obj\Release\MTProject.pdb

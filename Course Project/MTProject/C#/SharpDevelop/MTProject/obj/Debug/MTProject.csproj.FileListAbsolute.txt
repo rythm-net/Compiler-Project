@@ -1,0 +1,27 @@
+C:\Users\Dari\Desktop\MTProject\MTProject\bin\Debug\MTProject.exe.config
+C:\Users\Dari\Desktop\MTProject\MTProject\bin\Debug\MTProject.exe
+C:\Users\Dari\Desktop\MTProject\MTProject\bin\Debug\MTProject.pdb
+C:\Users\Dari\Desktop\MTProject\MTProject\obj\Debug\MTProject.exe
+C:\Users\Dari\Desktop\MTProject\MTProject\obj\Debug\MTProject.pdb
+C:\Users\Dari\Desktop\1601261106\MTProject1601261106\MTProject\bin\Debug\MTProject.exe.config
+C:\Users\Dari\Desktop\1601261106\MTProject1601261106\MTProject\bin\Debug\MTProject.exe
+C:\Users\Dari\Desktop\1601261106\MTProject1601261106\MTProject\bin\Debug\MTProject.pdb
+C:\Users\Dari\Desktop\1601261106\MTProject1601261106\MTProject\obj\Debug\MTProject.csprojAssemblyReference.cache
+C:\Users\Dari\Desktop\1601261106\MTProject1601261106\MTProject\obj\Debug\MTProject.csproj.CoreCompileInputs.cache
+C:\Users\Dari\Desktop\1601261106\MTProject1601261106\MTProject\obj\Debug\MTProject.exe
+C:\Users\Dari\Desktop\1601261106\MTProject1601261106\MTProject\obj\Debug\MTProject.pdb
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\bin\Debug\MTProject.exe.config
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\bin\Debug\MTProject.exe
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\bin\Debug\MTProject.pdb
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Debug\MTProject.csproj.AssemblyReference.cache
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Debug\MTProject.csproj.SuggestedBindingRedirects.cache
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Debug\MTProject.csproj.CoreCompileInputs.cache
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Debug\MTProject.exe
+D:\Informatics Materials\4.2.Metodi na translaciq\MTProject1601261078\MTProject\obj\Debug\MTProject.pdb
+C:\Users\Erkan\Desktop\1901261068\MTProject\bin\Debug\MTProject.exe.config
+C:\Users\Erkan\Desktop\1901261068\MTProject\bin\Debug\MTProject.exe
+C:\Users\Erkan\Desktop\1901261068\MTProject\bin\Debug\MTProject.pdb
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Debug\MTProject.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Debug\MTProject.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Debug\MTProject.exe
+C:\Users\Erkan\Desktop\1901261068\MTProject\obj\Debug\MTProject.pdb
