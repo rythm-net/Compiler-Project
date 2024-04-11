@@ -1,4 +1,4 @@
-## Compiler Project (simplified - "Converting high-level language to low-level")
+## Compiler Project (simplified - "Converting high-level language SimpleC / SimpleP to low-level language .Net IL / Java ByteCode")
 
 ### Overall Information
 * **Course Project | Курсов Проект**
